@@ -2064,6 +2064,8 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/199975.ts
 ===24/7===
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlossimpson.png" group-title="24/7",Los Simpson
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",MONSTRUOS DE RIOS
+https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="24/7",El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFD0j4Dx/el-zorro.png" group-title="24/7",El Chavo
@@ -2071,7 +2073,7 @@ http://xdplus.site:2082/live/GerardoSilvap/MTUUR/107878.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="24/7",Cine Western
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 ===NOVELAS===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png" group-title="NOVELAS",✔️ TLNovelas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png" group-title="NOVELAS",TLNovelas
 http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHnovelisima.png" group-title="NOVELAS",✔️ Novelisima
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHnovelisima.png" group-title="NOVELAS",Novelisima
 https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
