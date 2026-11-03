@@ -2064,8 +2064,8 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/199975.ts
 ===24/7===
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlossimpson.png" group-title="24/7",Los Simpson
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",MONSTRUOS DE RIOS
-https://iptv-proxy.pagomercado962.workers.dev/?u=https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/es/CineFriki.es.png" group-title="24/7",Cine Friki
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="24/7",El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFD0j4Dx/el-zorro.png" group-title="24/7",El Chavo
