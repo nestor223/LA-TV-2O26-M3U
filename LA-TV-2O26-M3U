@@ -353,8 +353,10 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46171.ts
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46170.ts
 #EXTINF:-1 tvg-id="1+1 Internacional" tvg-name="PAMOUNT CHANNEL HD" tvg-logo="https://i.ibb.co/wr5LRY4/PAMOUNT.png" group-title="CINE",PAMOUNT CHANNEL HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46172.ts
-#EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CINE" tvg-logo="ttps://n9.cl/cmu5fx" group-title="CINE",SONY CINE
+#EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CINE" tvg-logo="https://n9.cl/cmu5fx" group-title="CINE",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY COMEDIA" tvg-logo="https://is.gd/LATVcxwc.png" group-title="CINE",SONY COMEDIA
+https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE",SONY CHANNEL
 http://45.70.168.162:12339/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE",SONY CHANNEL HD
@@ -629,8 +631,8 @@ http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/511539.ts
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/415642.ts
 #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Familia HD" tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" group-title="CULTURA",Discovery Familia HD
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/415641.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="CULTURA",Discovery Home & Health
-http://45.70.168.162:64333/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="CULTURA",Discovery Home & Health 1
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="CULTURA",Discovery Home & Health
 http://45.70.168.162:8443/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="CULTURA",Discovery Home & Health HD
@@ -2070,8 +2072,12 @@ https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFD0j4Dx/el-zorro.png" group-title="24/7",El Chavo
 http://xdplus.site:2082/live/GerardoSilvap/MTUUR/107878.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="24/7",MyTime Movie
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="24/7",Cine Western
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="24/7",Popcorn Central
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 ===NOVELAS===
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png" group-title="NOVELAS",TLNovelas
 http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
